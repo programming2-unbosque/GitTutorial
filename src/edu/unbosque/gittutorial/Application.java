@@ -17,7 +17,7 @@ public class Application {
 
             Student student = new Student();
             student.setName(name);
-            System.out.println(name);
+            
         }
         catch (Exception e)
         {
